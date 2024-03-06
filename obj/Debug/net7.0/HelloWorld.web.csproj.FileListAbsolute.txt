@@ -1,0 +1,61 @@
+C:\Users\Bhuvan Gowda H G\Desktop\CICD-demo\HelloWorld.web\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Bhuvan Gowda H G\Desktop\CICD-demo\HelloWorld.web\bin\Debug\net7.0\appsettings.json
+C:\Users\Bhuvan Gowda H G\Desktop\CICD-demo\HelloWorld.web\bin\Debug\net7.0\HelloWorld.web.staticwebassets.runtime.json
+C:\Users\Bhuvan Gowda H G\Desktop\CICD-demo\HelloWorld.web\bin\Debug\net7.0\HelloWorld.web.exe
+C:\Users\Bhuvan Gowda H G\Desktop\CICD-demo\HelloWorld.web\bin\Debug\net7.0\HelloWorld.web.deps.json
+C:\Users\Bhuvan Gowda H G\Desktop\CICD-demo\HelloWorld.web\bin\Debug\net7.0\HelloWorld.web.runtimeconfig.json
+C:\Users\Bhuvan Gowda H G\Desktop\CICD-demo\HelloWorld.web\bin\Debug\net7.0\HelloWorld.web.dll
+C:\Users\Bhuvan Gowda H G\Desktop\CICD-demo\HelloWorld.web\bin\Debug\net7.0\HelloWorld.web.pdb
+C:\Users\Bhuvan Gowda H G\Desktop\CICD-demo\HelloWorld.web\obj\Debug\net7.0\HelloWorld.web.csproj.AssemblyReference.cache
+C:\Users\Bhuvan Gowda H G\Desktop\CICD-demo\HelloWorld.web\obj\Debug\net7.0\HelloWorld.web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bhuvan Gowda H G\Desktop\CICD-demo\HelloWorld.web\obj\Debug\net7.0\HelloWorld.web.AssemblyInfoInputs.cache
+C:\Users\Bhuvan Gowda H G\Desktop\CICD-demo\HelloWorld.web\obj\Debug\net7.0\HelloWorld.web.AssemblyInfo.cs
+C:\Users\Bhuvan Gowda H G\Desktop\CICD-demo\HelloWorld.web\obj\Debug\net7.0\HelloWorld.web.csproj.CoreCompileInputs.cache
+C:\Users\Bhuvan Gowda H G\Desktop\CICD-demo\HelloWorld.web\obj\Debug\net7.0\HelloWorld.web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Bhuvan Gowda H G\Desktop\CICD-demo\HelloWorld.web\obj\Debug\net7.0\HelloWorld.web.RazorAssemblyInfo.cache
+C:\Users\Bhuvan Gowda H G\Desktop\CICD-demo\HelloWorld.web\obj\Debug\net7.0\HelloWorld.web.RazorAssemblyInfo.cs
+C:\Users\Bhuvan Gowda H G\Desktop\CICD-demo\HelloWorld.web\obj\Debug\net7.0\staticwebassets\msbuild.HelloWorld.web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Bhuvan Gowda H G\Desktop\CICD-demo\HelloWorld.web\obj\Debug\net7.0\staticwebassets\msbuild.build.HelloWorld.web.props
+C:\Users\Bhuvan Gowda H G\Desktop\CICD-demo\HelloWorld.web\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.HelloWorld.web.props
+C:\Users\Bhuvan Gowda H G\Desktop\CICD-demo\HelloWorld.web\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.HelloWorld.web.props
+C:\Users\Bhuvan Gowda H G\Desktop\CICD-demo\HelloWorld.web\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Bhuvan Gowda H G\Desktop\CICD-demo\HelloWorld.web\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Bhuvan Gowda H G\Desktop\CICD-demo\HelloWorld.web\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Bhuvan Gowda H G\Desktop\CICD-demo\HelloWorld.web\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Bhuvan Gowda H G\Desktop\CICD-demo\HelloWorld.web\obj\Debug\net7.0\scopedcss\bundle\HelloWorld.web.styles.css
+C:\Users\Bhuvan Gowda H G\Desktop\CICD-demo\HelloWorld.web\obj\Debug\net7.0\scopedcss\projectbundle\HelloWorld.web.bundle.scp.css
+C:\Users\Bhuvan Gowda H G\Desktop\CICD-demo\HelloWorld.web\obj\Debug\net7.0\HelloWorld.web.dll
+C:\Users\Bhuvan Gowda H G\Desktop\CICD-demo\HelloWorld.web\obj\Debug\net7.0\refint\HelloWorld.web.dll
+C:\Users\Bhuvan Gowda H G\Desktop\CICD-demo\HelloWorld.web\obj\Debug\net7.0\HelloWorld.web.pdb
+C:\Users\Bhuvan Gowda H G\Desktop\CICD-demo\HelloWorld.web\obj\Debug\net7.0\HelloWorld.web.genruntimeconfig.cache
+C:\Users\Bhuvan Gowda H G\Desktop\CICD-demo\HelloWorld.web\obj\Debug\net7.0\ref\HelloWorld.web.dll
+D:\Devops dotnet project\bin\Debug\net7.0\appsettings.Development.json
+D:\Devops dotnet project\bin\Debug\net7.0\appsettings.json
+D:\Devops dotnet project\bin\Debug\net7.0\HelloWorld.web.staticwebassets.runtime.json
+D:\Devops dotnet project\bin\Debug\net7.0\HelloWorld.web.exe
+D:\Devops dotnet project\bin\Debug\net7.0\HelloWorld.web.deps.json
+D:\Devops dotnet project\bin\Debug\net7.0\HelloWorld.web.runtimeconfig.json
+D:\Devops dotnet project\bin\Debug\net7.0\HelloWorld.web.dll
+D:\Devops dotnet project\bin\Debug\net7.0\HelloWorld.web.pdb
+D:\Devops dotnet project\obj\Debug\net7.0\HelloWorld.web.GeneratedMSBuildEditorConfig.editorconfig
+D:\Devops dotnet project\obj\Debug\net7.0\HelloWorld.web.AssemblyInfoInputs.cache
+D:\Devops dotnet project\obj\Debug\net7.0\HelloWorld.web.AssemblyInfo.cs
+D:\Devops dotnet project\obj\Debug\net7.0\HelloWorld.web.csproj.CoreCompileInputs.cache
+D:\Devops dotnet project\obj\Debug\net7.0\HelloWorld.web.MvcApplicationPartsAssemblyInfo.cache
+D:\Devops dotnet project\obj\Debug\net7.0\HelloWorld.web.RazorAssemblyInfo.cache
+D:\Devops dotnet project\obj\Debug\net7.0\HelloWorld.web.RazorAssemblyInfo.cs
+D:\Devops dotnet project\obj\Debug\net7.0\staticwebassets.build.json
+D:\Devops dotnet project\obj\Debug\net7.0\staticwebassets.development.json
+D:\Devops dotnet project\obj\Debug\net7.0\staticwebassets\msbuild.HelloWorld.web.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Devops dotnet project\obj\Debug\net7.0\staticwebassets\msbuild.build.HelloWorld.web.props
+D:\Devops dotnet project\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.HelloWorld.web.props
+D:\Devops dotnet project\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.HelloWorld.web.props
+D:\Devops dotnet project\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Devops dotnet project\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Devops dotnet project\obj\Debug\net7.0\scopedcss\bundle\HelloWorld.web.styles.css
+D:\Devops dotnet project\obj\Debug\net7.0\scopedcss\projectbundle\HelloWorld.web.bundle.scp.css
+D:\Devops dotnet project\obj\Debug\net7.0\HelloWorld.web.dll
+D:\Devops dotnet project\obj\Debug\net7.0\refint\HelloWorld.web.dll
+D:\Devops dotnet project\obj\Debug\net7.0\HelloWorld.web.pdb
+D:\Devops dotnet project\obj\Debug\net7.0\HelloWorld.web.genruntimeconfig.cache
+D:\Devops dotnet project\obj\Debug\net7.0\ref\HelloWorld.web.dll
